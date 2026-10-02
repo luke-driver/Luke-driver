@@ -1,0 +1,1 @@
+Upload semua 4 file ke repository GitHub Pages: index.html, style.css, script.js, luke-company-travel.jpg
